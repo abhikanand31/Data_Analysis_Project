@@ -58,7 +58,7 @@ Make it:
 
 ## MY EXECUTION PLAN
 
-## Cleaning, Analysing and Visualising data using SQL Query
+## Cleaning, Analyzing and Visualizing data using SQL Query
 
 select sum(Amount) as Total_Income from PersonalFinance
 where Type = 'Income';
