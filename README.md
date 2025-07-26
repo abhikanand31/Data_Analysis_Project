@@ -2,6 +2,8 @@
 
 I developed a personal finance tracker and spending pattern analyzer using SQL, Excel, and Power BI. Includes 3 years of simulated data with visual insights on income, expenses, savings, and trends for better financial understanding and decision-making.
 
+## Dashboard Interaction
+<a href = "https://github.com/abhikanand31/Data_Analysis_Project/blob/main/ScreenShots/Screenshot%20(Main%20Dashboard).png">View Dashboard</a>
 
 ## Dataset Generation
 Data is generated using SQL Server from 01-Jan-2022 to 31-Dec-2024.
