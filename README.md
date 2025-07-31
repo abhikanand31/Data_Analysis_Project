@@ -209,8 +209,9 @@ Design & Interactivity
  • Clear labels, tooltips, legends.
  • Tested for easy filtering.
 
+Show what the Dashboard looks like:
 
-
+![Dashboard](https://github.com/abhikanand31/Personal_Finance_Tracker_Data_Analysis/blob/main/ScreenShots/Screenshot%20(Main%20Dashboard).png)
 
 
 
